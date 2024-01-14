@@ -28,7 +28,7 @@ body{
 
 .header {
     background-image: url(bg.jpg);
-    height: 100vh;
+    height: 750px;
     background-repeat: no-repeat;
     background-size:cover;    
 }
